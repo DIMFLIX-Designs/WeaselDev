@@ -1,3 +1,3 @@
-Первая и последняя версия логотипа. Студия к сожалению умерла, и умерла с этим логотипом :(<br/>
-Осталась только в сердечке ❤️
-<img src="https://github.com/DIMFLIX-Designs/WeaselDev/blob/7b7ac95cf4bda428a20c6d361c393fc5bd20abd3/%D0%BB%D0%BE%D0%B3%D0%BE.png" alt=""/>
+Третий вариант. К сожалению не осталось исходников. Где-то затерялись...
+Логотип тоже небыл выпущен в релиз. Не использовался
+<img src="https://github.com/DIMFLIX-Designs/WeaselDev/blob/03ad62910e3f978079a39f67c30266e1a554cbf0/%D1%82%D1%80%D0%B5%D1%82%D0%B8%D0%B9%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82.png" alt=""/>
